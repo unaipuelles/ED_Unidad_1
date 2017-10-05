@@ -1,0 +1,20 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="dividida" directorySegmentName="seg_0" id="B01D10A3-1CCC-0782-FB9A-941E35571396">
+<createdBy>unai-</createdBy>
+<createdTime>2017-10-05 10:11:31 UTC</createdTime>
+<generatorID>Generado por el Usuario</generatorID>
+<ownerDesignName>MER (Unai Puelles)</ownerDesignName>
+<engineerTo>
+<item key="816AB55D-7CD7-7AD2-859B-218FDEA8ED95" value="true"/>
+</engineerTo>
+<sourcePk>2DB9DCC8-A25E-220C-95C7-77BB06116066</sourcePk>
+<identifying>false</identifying>
+<optionalSource>false</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>A4F42488-96F6-0AAD-447F-CA37587AF56B</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>11DBC2DB-3671-7A19-4516-825E4F19F264</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

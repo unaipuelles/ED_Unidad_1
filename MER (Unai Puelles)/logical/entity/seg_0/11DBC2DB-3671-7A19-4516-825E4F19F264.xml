@@ -1,0 +1,91 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="11DBC2DB-3671-7A19-4516-825E4F19F264" name="Complejo deportivo">
+<createdBy>unai-</createdBy>
+<createdTime>2017-10-05 09:59:46 UTC</createdTime>
+<generatorID>Generado por el Usuario</generatorID>
+<ownerDesignName>MER (Unai Puelles)</ownerDesignName>
+<engineerTo>
+<item key="816AB55D-7CD7-7AD2-859B-218FDEA8ED95" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="cod_complejo" id="22F13199-0A45-5094-97F8-3F2EE06899D4">
+<createdBy>unai-</createdBy>
+<createdTime>2017-10-05 09:59:58 UTC</createdTime>
+<generatorID>Generado por el Usuario</generatorID>
+<ownerDesignName>MER (Unai Puelles)</ownerDesignName>
+<engineerTo>
+<item key="816AB55D-7CD7-7AD2-859B-218FDEA8ED95" value="true"/>
+</engineerTo>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="localización" id="D45D3B11-C432-E6F4-64E8-DC0D1A5807A5">
+<createdBy>unai-</createdBy>
+<createdTime>2017-10-05 10:00:17 UTC</createdTime>
+<generatorID>Generado por el Usuario</generatorID>
+<ownerDesignName>MER (Unai Puelles)</ownerDesignName>
+<engineerTo>
+<item key="816AB55D-7CD7-7AD2-859B-218FDEA8ED95" value="true"/>
+</engineerTo>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="jefe_org" id="4FD66CB6-DDF6-5FD3-3BC3-1F594A1432B1">
+<createdBy>unai-</createdBy>
+<createdTime>2017-10-05 10:00:34 UTC</createdTime>
+<generatorID>Generado por el Usuario</generatorID>
+<ownerDesignName>MER (Unai Puelles)</ownerDesignName>
+<engineerTo>
+<item key="816AB55D-7CD7-7AD2-859B-218FDEA8ED95" value="true"/>
+</engineerTo>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="área_ocupada" id="C83F1A94-01E7-33B0-D471-A0C2084D5CDF">
+<createdBy>unai-</createdBy>
+<createdTime>2017-10-05 10:00:48 UTC</createdTime>
+<generatorID>Generado por el Usuario</generatorID>
+<ownerDesignName>MER (Unai Puelles)</ownerDesignName>
+<engineerTo>
+<item key="816AB55D-7CD7-7AD2-859B-218FDEA8ED95" value="true"/>
+</engineerTo>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="cod_sede" id="7E3742A4-69C9-178C-9F5D-764AAF8711A7">
+<createdBy>unai-</createdBy>
+<createdTime>2017-10-05 10:11:31 UTC</createdTime>
+<generatorID>B01D10A3-1CCC-0782-FB9A-941E35571396</generatorID>
+<ownerDesignName>MER (Unai Puelles)</ownerDesignName>
+<engineerTo>
+<item key="816AB55D-7CD7-7AD2-859B-218FDEA8ED95" value="true"/>
+</engineerTo>
+<referedAttribute>7742C69D-BD3C-0903-CC0B-B1C27714DF53</referedAttribute>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="8EF06829-09A2-E1C8-5F6D-DF5FECF0DA6B" name="Complejo deportivo PK">
+<createdBy>unai-</createdBy>
+<createdTime>2017-10-05 10:00:16 UTC</createdTime>
+<generatorID>Generado por el Usuario</generatorID>
+<ownerDesignName>MER (Unai Puelles)</ownerDesignName>
+<engineerTo>
+<item key="816AB55D-7CD7-7AD2-859B-218FDEA8ED95" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>22F13199-0A45-5094-97F8-3F2EE06899D4</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

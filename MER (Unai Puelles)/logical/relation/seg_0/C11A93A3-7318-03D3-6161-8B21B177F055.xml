@@ -1,0 +1,20 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="construida" directorySegmentName="seg_0" id="C11A93A3-7318-03D3-6161-8B21B177F055">
+<createdBy>unai-</createdBy>
+<createdTime>2017-10-05 10:18:40 UTC</createdTime>
+<generatorID>Generado por el Usuario</generatorID>
+<ownerDesignName>MER (Unai Puelles)</ownerDesignName>
+<engineerTo>
+<item key="816AB55D-7CD7-7AD2-859B-218FDEA8ED95" value="true"/>
+</engineerTo>
+<sourcePk>F35EB6FE-3132-77E0-2C0B-44DC57865F26</sourcePk>
+<identifying>true</identifying>
+<optionalSource>false</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>3051D189-8DC7-B15F-9F09-FF263ACA0546</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>E3EB81E0-98A4-DF4E-E600-C75387F56085</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

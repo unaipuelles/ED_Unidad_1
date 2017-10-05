@@ -1,0 +1,54 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="3EF49570-6C13-FC5C-27D0-9C8D46E17B7D" name="Polideportivo">
+<createdBy>unai-</createdBy>
+<createdTime>2017-10-05 10:02:18 UTC</createdTime>
+<generatorID>Generado por el Usuario</generatorID>
+<ownerDesignName>MER (Unai Puelles)</ownerDesignName>
+<engineerTo>
+<item key="816AB55D-7CD7-7AD2-859B-218FDEA8ED95" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<hierarchicalParent>11DBC2DB-3671-7A19-4516-825E4F19F264</hierarchicalParent>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="Localización" id="33FF84A1-7B95-B509-49F0-9FB2B00E3AB0">
+<createdBy>unai-</createdBy>
+<createdTime>2017-10-05 10:02:32 UTC</createdTime>
+<generatorID>Generado por el Usuario</generatorID>
+<ownerDesignName>MER (Unai Puelles)</ownerDesignName>
+<engineerTo>
+<item key="816AB55D-7CD7-7AD2-859B-218FDEA8ED95" value="true"/>
+</engineerTo>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="num_deportes" id="E2F6D4FA-4C94-B27A-BC24-4594098A22AF">
+<createdBy>unai-</createdBy>
+<createdTime>2017-10-05 10:02:52 UTC</createdTime>
+<generatorID>Generado por el Usuario</generatorID>
+<ownerDesignName>MER (Unai Puelles)</ownerDesignName>
+<engineerTo>
+<item key="816AB55D-7CD7-7AD2-859B-218FDEA8ED95" value="true"/>
+</engineerTo>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="metros_cuadrados" id="2A3FC725-80F7-D878-995B-C23FA1A5A162">
+<createdBy>unai-</createdBy>
+<createdTime>2017-10-05 10:03:01 UTC</createdTime>
+<generatorID>Generado por el Usuario</generatorID>
+<ownerDesignName>MER (Unai Puelles)</ownerDesignName>
+<engineerTo>
+<item key="816AB55D-7CD7-7AD2-859B-218FDEA8ED95" value="true"/>
+</engineerTo>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+</Entity>

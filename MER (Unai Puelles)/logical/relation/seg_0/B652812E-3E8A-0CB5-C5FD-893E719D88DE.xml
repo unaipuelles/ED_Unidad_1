@@ -1,0 +1,32 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="entrenar" directorySegmentName="seg_0" id="B652812E-3E8A-0CB5-C5FD-893E719D88DE">
+<createdBy>unai-</createdBy>
+<createdTime>2017-10-05 10:09:49 UTC</createdTime>
+<generatorID>Generado por el Usuario</generatorID>
+<ownerDesignName>MER (Unai Puelles)</ownerDesignName>
+<engineerTo>
+<item key="816AB55D-7CD7-7AD2-859B-218FDEA8ED95" value="true"/>
+</engineerTo>
+<identifying>false</identifying>
+<optionalSource>false</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>*</sourceCardinality>
+<sourceEntity>AD4C0BE7-09C8-9712-2D6E-BE0F254E820A</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>A4F42488-96F6-0AAD-447F-CA37587AF56B</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<attribute name="acceso" id="981E0D51-A92F-8347-56F3-42CB8AB0468F">
+<createdBy>unai-</createdBy>
+<createdTime>2017-10-05 10:10:12 UTC</createdTime>
+<generatorID>Generado por el Usuario</generatorID>
+<ownerDesignName>MER (Unai Puelles)</ownerDesignName>
+<engineerTo>
+<item key="816AB55D-7CD7-7AD2-859B-218FDEA8ED95" value="true"/>
+</engineerTo>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</attribute>
+</attributes>
+</Relation>

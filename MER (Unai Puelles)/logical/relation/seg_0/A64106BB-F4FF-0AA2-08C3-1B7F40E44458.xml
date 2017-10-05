@@ -1,0 +1,20 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="instalados" directorySegmentName="seg_0" id="A64106BB-F4FF-0AA2-08C3-1B7F40E44458">
+<createdBy>unai-</createdBy>
+<createdTime>2017-10-05 10:08:38 UTC</createdTime>
+<generatorID>Generado por el Usuario</generatorID>
+<ownerDesignName>MER (Unai Puelles)</ownerDesignName>
+<engineerTo>
+<item key="816AB55D-7CD7-7AD2-859B-218FDEA8ED95" value="true"/>
+</engineerTo>
+<sourcePk>A1D394C8-71FC-1576-A2D8-2638F031D95C</sourcePk>
+<identifying>false</identifying>
+<optionalSource>false</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>E3EB81E0-98A4-DF4E-E600-C75387F56085</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>AD4C0BE7-09C8-9712-2D6E-BE0F254E820A</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

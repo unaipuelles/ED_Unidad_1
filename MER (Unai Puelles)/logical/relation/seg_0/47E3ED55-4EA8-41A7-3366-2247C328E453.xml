@@ -1,0 +1,20 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="realizar" directorySegmentName="seg_0" id="47E3ED55-4EA8-41A7-3366-2247C328E453">
+<createdBy>unai-</createdBy>
+<createdTime>2017-10-05 10:11:49 UTC</createdTime>
+<generatorID>Generado por el Usuario</generatorID>
+<ownerDesignName>MER (Unai Puelles)</ownerDesignName>
+<engineerTo>
+<item key="816AB55D-7CD7-7AD2-859B-218FDEA8ED95" value="true"/>
+</engineerTo>
+<sourcePk>8EF06829-09A2-E1C8-5F6D-DF5FECF0DA6B</sourcePk>
+<identifying>false</identifying>
+<optionalSource>false</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>11DBC2DB-3671-7A19-4516-825E4F19F264</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>72EF2FFB-1348-3EA7-CB8E-4FF07271E255</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

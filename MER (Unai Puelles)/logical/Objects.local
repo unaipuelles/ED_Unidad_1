@@ -1,0 +1,24 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<oracle.dbtools.crest.model.design.logical.LogicalDesign>
+   <object objectType="Entity" objectID="AD4C0BE7-09C8-9712-2D6E-BE0F254E820A" name="Atleta" seqName="seg_0"/>
+   <object objectType="Entity" objectID="E3EB81E0-98A4-DF4E-E600-C75387F56085" name="Calle" seqName="seg_0"/>
+   <object objectType="Entity" objectID="43AEF5EE-5630-3820-1CEB-2E2E5EFDD87E" name="Comisario" seqName="seg_0"/>
+   <object objectType="Entity" objectID="11DBC2DB-3671-7A19-4516-825E4F19F264" name="Complejo deportivo" seqName="seg_0"/>
+   <object objectType="Entity" objectID="72EF2FFB-1348-3EA7-CB8E-4FF07271E255" name="Evento" seqName="seg_0"/>
+   <object objectType="Entity" objectID="EB48B060-2D2B-E46F-8FD4-62A93F9B0EFE" name="Juez" seqName="seg_0"/>
+   <object objectType="Entity" objectID="A186000E-BF2D-95A5-BE63-DB78FE0DA7CA" name="Observador" seqName="seg_0"/>
+   <object objectType="Entity" objectID="3EF49570-6C13-FC5C-27D0-9C8D46E17B7D" name="Polideportivo" seqName="seg_0"/>
+   <object objectType="Entity" objectID="A4F42488-96F6-0AAD-447F-CA37587AF56B" name="Sede OlÃ­mpica" seqName="seg_0"/>
+   <object objectType="Entity" objectID="3051D189-8DC7-B15F-9F09-FF263ACA0546" name="Villa" seqName="seg_0"/>
+   <object objectType="Entity" objectID="DE2D9F52-528B-F164-0E0C-F927744E1A82" name="Ãšnico deporte" seqName="seg_0"/>
+   <object objectType="Relation" objectID="1CF5377B-1CAF-DDCF-C58D-ED7756DBEE90" name="celebrar" seqName="seg_0"/>
+   <object objectType="Relation" objectID="C11A93A3-7318-03D3-6161-8B21B177F055" name="construida" seqName="seg_0"/>
+   <object objectType="Relation" objectID="B01D10A3-1CCC-0782-FB9A-941E35571396" name="dividida" seqName="seg_0"/>
+   <object objectType="Relation" objectID="B652812E-3E8A-0CB5-C5FD-893E719D88DE" name="entrenar" seqName="seg_0"/>
+   <object objectType="Relation" objectID="A64106BB-F4FF-0AA2-08C3-1B7F40E44458" name="instalados" seqName="seg_0"/>
+   <object objectType="Relation" objectID="47E3ED55-4EA8-41A7-3366-2247C328E453" name="realizar" seqName="seg_0"/>
+   <object objectType="Hierarchy relation" objectID="D8D62660-D60E-7D88-5023-723A539052E1" name="Hierarchy_1" seqName="seg_0"/>
+   <object objectType="Hierarchy relation" objectID="B8D78E3B-E5A0-ACF2-01D3-0B398399E3C6" name="Hierarchy_2" seqName="seg_0"/>
+   <object objectType="Hierarchy relation" objectID="CB333141-8D7E-B245-8048-8426AF685393" name="Hierarchy_3" seqName="seg_0"/>
+   <object objectType="Hierarchy relation" objectID="75826C0F-8D14-8389-E391-6CE324866F03" name="Hierarchy_4" seqName="seg_0"/>
+</oracle.dbtools.crest.model.design.logical.LogicalDesign>
